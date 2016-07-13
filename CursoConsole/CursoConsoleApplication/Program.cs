@@ -11,6 +11,7 @@ namespace CursoConsoleApplication
     {
         static void Main(string[] args)
         {
+
             String cliente = "", produto = "";
             int opcao, operacao;
             ArrayList ListPrd = new ArrayList();
